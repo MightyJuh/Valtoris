@@ -27,7 +27,8 @@
 
 #### Réputation
 
-Le système de [[Mécaniques/Réputation\|Réputation]] affecte aussi les prix des marchands de **Village**. Selon votre niveau de réputation de chaque village, les prix varieront.
+Le système de [[Mécaniques/Réputation\|Réputation]] affecte les prix dans chaque **peuplement**.
+Une mauvaise réputation vous garantiera un moins bon randement lors de la vente et des prix plus chers lors de l'achat.
 
 | 〽️ Niveau de Réputation | 🪙 Ajustement du Prix |
 | ----------------------- | --------------------- |
@@ -35,4 +36,4 @@ Le système de [[Mécaniques/Réputation\|Réputation]] affecte aussi les prix d
 | 🟢Amical                | ± 10%                 |
 | 🟡Neutre                | ⚖️ Prix de Base       |
 | 🟠Indésirable           | ± 10%                 |
-| 🔴Hostile               | ± 30%                 |
+| 🔴Peste               | ± 30%                 |
