@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recapitulatif/"}
+{"dg-publish":true,"permalink":"/recapitulatif/","noteIcon":""}
 ---
 
 
