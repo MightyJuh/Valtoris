@@ -11,5 +11,6 @@ Le site sera mis à jour à la fin de chaque session, avec les informations appr
 
 - Une page [[Recapitulatif\|Recapitulatif]] sera présente avec les dernières informations de chaque session.
 - Vous pourrez observer les pages de vos [[Personnages/Personnages\|Personnages]] à n'importe quel moment !
+- Dans le dossier [[Cartes/Cartes\|Cartes]] se trouvera toutes les cartes disponibles.
   
   
