@@ -8,7 +8,7 @@
 
 Ce site vous servira tout au long de la campagne, afin de regarder tout ce que vous découvrirez !
 
-Il sera mis à jour à la fin de chaque session, avec les informations apprises.
+Il sera mis à jour à la fin de chaque session, avec les informations apprises au cours de celles-ci.
 
 - Une page [[Hub/Recapitulatif\|Recapitulatif]] est présente avec un résumé des dernières informations de chaque session.
 - Vous pouvez observer les pages de vos [[Hub/Personnages\|Personnages]] à n'importe quel moment !
