@@ -3,9 +3,9 @@
 ---
 
 
-> Lorsque les [[Joueurs\|Joueurs]] traverseront le royaume, lors de leurs périples, ils rencontreront divers [[Marchands\|Marchands]], offrant l’opportunité de vendre les [[Ressources/Ressources\|Ressources]] accumulées tout au long de leur aventure. Il existe quatre catégories distinctes de [[Marchands\|Marchands]].
+> Lorsque vous traverserez le royaume, lors de leurs périples, vous rencontrerez divers [[Marchands\|Marchands]], offrant l’opportunité de vendre les [[Ressources/Ressources\|Ressources]] accumulées tout au long de votre aventure. Il existe quatre catégories distinctes de marchands.
 
-> Se délester de ses [[Ressources/Ressources\|Ressources]] auprès des [[Marchands\|Marchands]] des villes garantit la valeur la plus sûre, car ils pratiquent les prix de base. Chaque type de [[Marchand\|Marchand]] propose cependant une variation de ces prix, modulant les valeurs selon son propre marché.
+> Se délester de ses Ressources auprès des marchands des villes garantit la valeur la plus sûre, car ils pratiquent les prix de base. Chaque type de marchand propose cependant une variation de ces prix, modulant les valeurs selon son propre marché.
 
 > Par Exemple:
 
