@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cartes/valtoris/"}
+{"dg-publish":true,"permalink":"/Cartes/Valtoris/"}
 ---
 
 

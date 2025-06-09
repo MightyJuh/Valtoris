@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mecaniques/peche/"}
+{"dg-publish":true,"permalink":"/Mécaniques/Pêche/"}
 ---
 
 > La La Pêche|pêche fait partie des activités offertes dans cette campagne, une invitation à goûter aux mystères des eaux lors de grandes expéditions.

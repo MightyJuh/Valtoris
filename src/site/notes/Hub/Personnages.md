@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hub/personnages/"}
+{"dg-publish":true,"permalink":"/Hub/Personnages/"}
 ---
 
 

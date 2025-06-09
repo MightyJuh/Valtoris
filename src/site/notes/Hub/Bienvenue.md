@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hub/bienvenue/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Hub/Bienvenue/","tags":["gardenEntry"]}
 ---
 
 

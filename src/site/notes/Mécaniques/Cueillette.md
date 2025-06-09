@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mecaniques/cueillette/"}
+{"dg-publish":true,"permalink":"/Mécaniques/Cueillette/"}
 ---
 
 > La [[Mécaniques/Cueillette\|Cueillette]] fait partie des activités offertes dans cette campagne.

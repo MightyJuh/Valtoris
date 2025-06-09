@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mecaniques/chasse/"}
+{"dg-publish":true,"permalink":"/Mécaniques/Chasse/"}
 ---
 
 
