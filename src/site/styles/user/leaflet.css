@@ -1,0 +1,12 @@
+/* 1. Conteneur visible par défaut */
+.leaflet-container {
+  width: 100%;
+  max-width: 800px;    /* optionnel */
+  height: 300px;       /* hauteur fixe ; adapte selon tes besoins */
+  margin: 1em auto;
+}
+
+/* 2. Optionnel : effet visuel sur les marqueurs */
+.leaflet-marker-icon {
+  filter: drop-shadow(0 0 4px rgba(0,0,0,0.3));
+}
