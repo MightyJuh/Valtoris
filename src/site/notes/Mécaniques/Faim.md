@@ -10,6 +10,6 @@
 
 > Manger offre la possibiliter de non seulement récupérer vos points de faim, mais presque chaque repas vous font regagner des points de vie.
 
-> Voir: [[Ressources/Ressources\|Ressources/Ressources]]
+> Voir: [[Ressources\|Ressources]]
 
 
