@@ -18,7 +18,8 @@
 2. Sélectionner un animal - Jet de D20 (DM)
 3. Récolter - Jet de D20 (Joueurs) 
 
-> Le joueur peut décider de récolter des [[Ressources/Ressources\|Ressources/Ressources]] d'un jet de Dé plus bas que celui qu'il a obtenu
+> Le joueur peut décider de récolter des ressources d'un jet de Dé plus bas que celui qu'il a obtenu.
+> *Voir* [[Ressources/Récolte\|Récolte]]
 
 **5 Types de Ressources :**
 

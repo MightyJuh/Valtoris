@@ -19,7 +19,9 @@
 2. Sélectionner un poisson - Jet de D12 (DM)
 3. Récolter - Jet de D20 (Joueurs)
 
-**2 Types de [[Ressources/Ressources\|Ressources/Ressources]] :** 
+**2 Types de ressources:** 
+
+> *Voir [[Ressources/Récolte\|Récolte]]*
 
 - 🟦 Ressource de Luxe
 - 🟥 Chair de Poisson
