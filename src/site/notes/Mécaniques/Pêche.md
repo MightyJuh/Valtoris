@@ -25,7 +25,7 @@ Le joueur est indisponible **pendant 2h**. Il part et chasse un animal qu'il a p
 
 **2 Types de ressources:** 
 
-> *Voir [[Ressources/Ressources\|Ressources]]*
+> *Voir [[Ressources/Ressources\|Ressources/Ressources]]*
 
 - 🟦 Ressource de Luxe
 - 🟥 Chair de Poisson

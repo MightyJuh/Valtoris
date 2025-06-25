@@ -21,7 +21,7 @@ Le joueur est indisponible **pendant 2h**. Il part et chasse un animal qu'il a p
 4. Récolter - Jet de D20 (Joueurs)
 
 > Le joueur peut décider de récolter des ressources d'un jet de Dé plus bas que celui qu'il a obtenu.
-> *Voir* [[Ressources/Ressources\|Ressources]]
+> *Voir* [[Ressources/Ressources\|Ressources/Ressources]]
 
 **5 Types de Ressources :**
 
