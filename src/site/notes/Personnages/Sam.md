@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Personnages/Sam/"}
 ---
 
-
+![Sam.png](/img/user/EXTRA/00_IMAGES/Sam.png)
 
 Name : Acera 
 
