@@ -3,8 +3,6 @@
 ---
 
 
-> La chasse fait parties des activités disponibles dans cette campagne. Lors de leurs voyages, les joueurs peuvent partir chasser pour récolter des ressources diverses comme des peaux d'Animaux, à vendre au marché, ou encore de la viande de gibier afin de rassasier sa faim.
-
 **Types de chasse :**
 
 - **Standard** : 

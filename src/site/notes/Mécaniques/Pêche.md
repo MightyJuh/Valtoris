@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/Mécaniques/Pêche/"}
 ---
 
-> La La Pêche|pêche fait partie des activités offertes dans cette campagne, une invitation à goûter aux mystères des eaux lors de grandes expéditions.
 
-> Lors de leurs voyages, les joueurs peuvent s’adonner à la La Pêche|pêche pour récolter des poissons, qu’ils vendront au marché ou qu’ils dégusteront autour d’un feu improvisé.
 
-**Durée d'une session de Pêche :** 
+**Type de Pêche**
 
 - **Standard** : 
 Le joueur est indisponible **pendant 1h**. Il part et il pêche le premier poisson qu'il trouve, en lancant un D20. Le modificateur **Athletics** (Str) est pris en compte.

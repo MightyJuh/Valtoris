@@ -2,19 +2,21 @@
 {"dg-publish":true,"permalink":"/Mécaniques/Cueillette/"}
 ---
 
-> La [[Mécaniques/Cueillette\|Cueillette]] fait partie des activités offertes dans cette campagne.
 
-> Lors de leurs voyages, les joueurs peuvent s’adonner à la [[Mécaniques/Cueillette\|Cueillette]] pour récolter diverses plantes, fruits et légumes, qu’ils vendront au Marché ou qu’ils dégusteront pour reprendre des forces.
+**Type de Cueillette**
 
-**Durée d'une session de Cueillette :** 
+- **Standard** :  
+Le joueur est indisponible **pendant 1h**. Il part et cueille ce qu'il trouve, en lancant un D20. Le modificateur **Nature** (int) est pris en compte.
 
-- Standard : 1h
+- **Sélective** : 
+Le joueur est indisponible **pendant 2h**. Il part et cueille une ressource qu'il a préalablement nommé. Pour ce faire, il doit obtenir un jet de D20 plus haut que 13. Le modificateur de **Survie** (Wis) est pris en compte.
 
 **Le Système de récolte fonctionne de cette façon  :**
 
->  En partant, le joueur reste indisponible pour la prochaine heure.
-
-1. Sélectionner la Récolte - Jet de D20 (DM)
+1. Choisir le type de Cueillete.
+2. Regarder dans quel Biome le joueur se trouve - *Voir [[Biomes/Biomes\|Biomes]]*
+3. Lancer le D20 et assigner le Modificateur correspondant.
+4. Récolter - Jet de D20
 
 > Le joueur peut décider de récolter des ressources d'un jet de Dé plus bas que celui qu'il a obtenu
 
@@ -24,8 +26,6 @@
 - 🥕 Légumes
 - 🍃 Plantes/Herbes
 - 🌸 Fleurs
-
-*Prend en compte les modificateurs Intelligence & Wisdom*
 
 | 🎲 Résultat au D20 | 🏹 Ressources Récoltées      |
 | ------------------ | ---------------------------- |
