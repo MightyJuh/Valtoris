@@ -3,7 +3,6 @@
 ---
 
 
-
 *Voir [[Mécaniques/Marchandage\|Marchandage]]*
 *Voir [[Mécaniques/Chasse\|Chasse]]*
 *Voir [[Mécaniques/Pêche\|Pêche]]*
