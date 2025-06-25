@@ -12,3 +12,7 @@ Classe: Cleric
 Ville d'origine : Acomore
 
 Religion : Lysorin
+
+Backstory : 
+
+Humain qui s'est fait cursed pour devenir un Arbre.

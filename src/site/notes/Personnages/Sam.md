@@ -10,7 +10,7 @@ Race : Metallic [[Espèces/Dragonborn\|Dragonborn]]
 Classe : Warlock 
 Ville d'origine : Aurélis 
 
-Patron : The Fathomless 
+Patron : L'Insondable
 
 Backstory : 
 
