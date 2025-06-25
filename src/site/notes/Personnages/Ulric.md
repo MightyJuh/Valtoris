@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Personnages/Ulric/"}
 ---
 
-
+![Ulric.jpg](/img/user/EXTRA/00_IMAGES/Ulric.jpg)
 
 Name : Edgard Tonneau-Plein
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Personnages/Loic/"}
 ---
 
-
+![Loic.jpg](/img/user/EXTRA/00_IMAGES/Loic.jpg)
 
 Name : Birth 
 
