@@ -7,8 +7,8 @@
 
 **Durée d'une session de chasse :**
 
-- Standard : 2h
-- Sélective : 1h
+- Standard : 1h - Nature (Int)
+- Sélective : 2h - Survie (Wis) Au dessus 13
 
 **Le Système de récolte fonctionne de cette façon  :**
 
@@ -28,7 +28,7 @@
 - 🟨 Surplus
 - 🟥 Viande
 
-*Prend en compte les modificateurs Dexterity & Wisdom*
+*Prend en compte le modificateur Nature et Survie*
 
 | 🎲 Résultat au D20 | 🏹 Ressources Récoltées         |
 | ------------------ | ------------------------------- |

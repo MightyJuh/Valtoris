@@ -3,6 +3,6 @@
 ---
 
 
-✨ Coucou, [[Loic\|Loic]], [[Ulric\|Ulric]], [[Félix\|Félix]], [[Jonathan\|Jonathan]], [[Sam\|Sam]] ! ✨
+✨ Coucou, [[Personnages/Loic\|Loic]], [[Personnages/Ulric\|Ulric]], [[Personnages/Félix\|Félix]], [[Personnages/Jonathan\|Jonathan]], [[Personnages/Sam\|Sam]] ! ✨
 Cliquez sur votre nom pour accéder à la page de votre personnage
 
