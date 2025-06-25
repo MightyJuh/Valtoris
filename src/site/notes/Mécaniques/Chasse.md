@@ -3,20 +3,22 @@
 ---
 
 
-> La chasse fait parties des activités disponibles dans cette campagne. Lors de leurs voyages, le joueur peu partir chasser pour lui permettre des récolter des ressources diverses comme des peaux d'Animaux, à vendre au marché, ou encore de la viande de gibier afin de rassasier sa faim.
+> La chasse fait parties des activités disponibles dans cette campagne. Lors de leurs voyages, les joueurs peuvent partir chasser pour récolter des ressources diverses comme des peaux d'Animaux, à vendre au marché, ou encore de la viande de gibier afin de rassasier sa faim.
 
-**Durée d'une session de chasse :**
+**Types de chasse :**
 
-- Standard : 1h - Nature (Int)
-- Sélective : 2h - Survie (Wis) Au dessus 13
+- **Standard** : 
+Le joueur est indisponible **pendant 1h**. Il part et il chasse le premier animal qu'il trouve, en lancant un D20. Le modificateur **Nature** (int) est pris en compte.
+
+- **Sélective** : 
+Le joueur est indisponible **pendant 2h**. Il part et chasse un animal qu'il a préalablement nommé. Pour ce faire, il doit obtenir un jet de D20 plus haut que 13. Le modificateur de **Survie** (Wis) est pris en compte.
 
 **Le Système de récolte fonctionne de cette façon  :**
 
-> En partant, le joueur reste indisponible pour les prochaines heures, à ses risques et périls (il risque tout de même de tomber sur des prédateurs dangereux.)
-
-1. Regarder dans quel Biome le joueur se trouve - *Voir [[Biomes/Biomes\|Biomes]]*
-2. Sélectionner un animal - Jet de D20 (DM)
-3. Récolter - Jet de D20 (Joueurs) 
+1. Choisir le type de chasse.
+2. Regarder dans quel Biome le joueur se trouve - *Voir [[Biomes/Biomes\|Biomes]]*
+3. Lancer le D20 et assigner le Modificateur correspondant.
+4. Récolter - Jet de D20 (Joueurs)
 
 > Le joueur peut décider de récolter des ressources d'un jet de Dé plus bas que celui qu'il a obtenu.
 > *Voir* [[Ressources/Récolte\|Récolte]]
@@ -27,8 +29,6 @@
 - 🟩 Fourrure, Peau, Plume
 - 🟨 Surplus
 - 🟥 Viande
-
-*Prend en compte le modificateur Nature et Survie*
 
 | 🎲 Résultat au D20 | 🏹 Ressources Récoltées         |
 | ------------------ | ------------------------------- |
