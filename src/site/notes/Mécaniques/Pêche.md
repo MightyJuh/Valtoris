@@ -14,23 +14,22 @@ Le joueur est indisponible **pendant 2h**. Il part et chasse un animal qu'il a p
 
 **Le Système de récolte fonctionne de cette façon  :**
 
-> En partant, le joueur reste indisponible pour les 2 prochaines heures.
-
 1. Choisir le type de pêche.
-2. Regarder le type de point d'eau
+2. Regarder le type de point d'eau - Voir ci dessous
 3. Lancer le D20 et assigner le Modificateur correspondant.
 4. Récolter - Jet de D20 (Joueurs)
 
 **2 Types de ressources:** 
 
-> *Voir [[Ressources/Ressources\|Ressources/Ressources]]*
-
 - 🟦 Ressource de Luxe
 - 🟥 Chair de Poisson
 
-
+Le joueur peut ajuster sa prise selon la charte suivante:
 - 1 Gros Poisson = 3 Petits Poissons
 - 1 Moyen Poisson = 2 Petits Poissons
+
+> *Voir* [[Mécaniques/Ressources\|Ressources]]
+
 #### Mare 🐸
 | 🎲 Résultat au D20 | 🐟Poisson Pêché Récoltées | 🏹Ressources Récoltées |
 | ------------------ | ------------------------- | ---------------------- |

@@ -14,12 +14,20 @@ Le joueur est indisponible **pendant 2h**. Il part et chasse un animal qu'il a p
 **Le Système de récolte fonctionne de cette façon  :**
 
 1. Choisir le type de chasse.
-2. Regarder dans quel Biome le joueur se trouve - *Voir [[Biomes/Biomes\|Biomes]]*
+2. Regarder dans quel Biome le joueur se trouve.
 3. Lancer le D20 et assigner le Modificateur correspondant.
-4. Récolter - Jet de D20 (Joueurs)
+4. Récolter - Jet de D20
 
 > Le joueur peut décider de récolter des ressources d'un jet de Dé plus bas que celui qu'il a obtenu.
-> *Voir* [[Ressources/Ressources\|Ressources/Ressources]]
+> *Voir* [[Mécaniques/Ressources\|Ressources]]
+
+**Types de Biomes** :
+
+- [[Biomes/Forêts Denses\|Forêts Denses]]
+- [[Biomes/Plaines\|Plaines]]
+- [[Biomes/Plaines Arrides\|Plaines Arrides]]
+- [[Biomes/Montagnes\|Montagnes]]
+- [[Biomes/Désert\|Désert]]
 
 **5 Types de Ressources :**
 

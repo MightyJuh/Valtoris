@@ -6,7 +6,7 @@
 
 Name : Edgard Tonneau-Plein
 
-Race : Halfelin
+Race : [[Halfelin\|Halfelin]]
 Classe : Rogue
 Sous-Classe : Scout
 Ville d'origine : Ofeles

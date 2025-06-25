@@ -7,7 +7,7 @@
 Name : Blazh 
 Âge : 176 ans
 
-Race: Cedar Tree-Folk
+Race: Cedar [[Espèces/Treefolk\|Treefolk]]
 Classe: Cleric 
 Ville d'origine : Acomore
 

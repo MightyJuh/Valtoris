@@ -6,7 +6,7 @@
 
 Name : Lyle
 
-Race : Tabaxi
+Race : [[Espèces/Tabaxi\|Tabaxi]]
 Classe : Rogue
 Ville d'origine : Naelens
 
