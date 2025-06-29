@@ -6,7 +6,7 @@
 
 Name : Birth 
 
-Race : [[Espèces/Galeb Duhr\|Galeb Duhr]] (Dwarf)
+Race : [[Races/Galeb Duhr\|Galeb Duhr]] (Dwarf)
 Classe : Barbare
 Sous-classe : Wild Magic
 Ville d'origine : Azhofmery

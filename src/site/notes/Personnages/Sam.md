@@ -6,7 +6,7 @@
 
 Name : Acera 
 
-Race : Metallic [[Espèces/Dragonborn\|Dragonborn]] 
+Race : Metallic [[Races/Dragonborn\|Dragonborn]] 
 Classe : Warlock 
 Ville d'origine : Aurélis 
 

@@ -4,10 +4,10 @@
 
 ![Jonathan.jpg](/img/user/EXTRA/00_IMAGES/Jonathan.jpg)
 
-Name : Blazh 
+Name : MUNT GOL 
 Âge : 176 ans
 
-Race: Cedar [[Espèces/Treefolk\|Treefolk]]
+Race: Cedar [[Races/Treefolk\|Treefolk]]
 Classe: Cleric 
 Ville d'origine : Acomore
 
