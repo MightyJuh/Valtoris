@@ -5,23 +5,33 @@
 
 **Types de chasse :**
 
-- **Standard** (1h) : 
-Le joueur est indisponible **pendant 1h**. Il part et il chasse le premier animal qu'il trouve, en lancant un D20. Le modificateur **Nature** (int) est pris en compte.
+1. Regarder dans quel biome le joueur se trouve.
+2. Choisir le type de chasse
 
-- **Sélective** (2h) : 
-Le joueur est indisponible **pendant 2h**. Il part et chasse un animal qu'il a préalablement nommé. Pour ce faire, il doit obtenir un jet de D20 plus haut que 13. Le modificateur de **Survie** (Wis) est pris en compte.
+- **Standard** (2h): 
 
-**Le Système de récolte fonctionne de cette façon  :**
+> Le joueur se rend sur les lieux.
+> Le joueur piste un animal (Jet de D20 + Nature)
+> Le joueur initie une attaque (Jet de D20 + Survie) - DC13
+> Résultat - Récolte ou Échec. 
 
-1. Choisir le type de chasse.
-2. Regarder dans quel Biome le joueur se trouve.
-3. Lancer le D20 et assigner le Modificateur correspondant.
-4. Récolter - Jet de D20
+- **Sélective** (1h) : 
 
-> Le joueur peut décider de récolter des ressources d'un jet de Dé plus bas que celui qu'il a obtenu.
-> *Voir* [[Mécaniques/Food/Ressources\|Ressources]]
+*Doit connaitre l'animal dans le Bestiaire - [[Bestiaire/Faune\|Faune]]*
 
-**Types de Biomes** :
+> Le joueur se rend sur les lieux
+> Le joueur initie une attaque (Jet de Survie) - DC10
+> Résultat - Récolte ou Échec.
+
+2. Échec ou Récolte
+
+En cas d'échec, le joueur peut soit abandonner ou recommencer. Dans le cas ou il décide de recommencer, le type de chasse devient automatiquement *Standard* et celui ci doit de nouver pister un animal.
+
+Dans certains cas, le joueur sera confronté à se battre contre un prédateur. Si le joueur ne réussi pas son jet de D20, il devra se battre contre l'animal.
+
+Si le joueur Tue avec succès l'animal, il récupère les ressources associées avec son animal avec le jet d'un D20. 
+
+> Voir la charte des animaux des différents Biomes :
 
 - [[Biomes/Forêts Denses\|Forêts Denses]]
 - [[Biomes/Plaines\|Plaines]]
@@ -46,3 +56,5 @@ Le joueur est indisponible **pendant 2h**. Il part et chasse un animal qu'il a p
 | 20-22              | 🟥🟥 + 🟩🟩 + 🟨 + 🟦           |
 | 23-24              | 🟥🟥🟥 + 🟩🟩 + 🟨 + 🟦🟦       |
 | 25+                | 🟥🟥🟥🟥 + 🟩🟩🟩 + 🟨🟨 + 🟦🟦 |
+
+*Voir [[Mécaniques/Food/Ressources#Chasse\|Ressources#Chasse]]*
