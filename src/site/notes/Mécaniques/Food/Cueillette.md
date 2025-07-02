@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Mécaniques/Food/Cueillette/"}
 ---
 
-Pour cueillir différentes ressources, le joueur peut, à n'importe quel moment, si les lieux le permettent, cueillir dans les environs. Il suffit de lancer un D20 et de récolter selon le résultat.
+> Pour cueillir différentes ressources, le joueur peut, à n'importe quel moment, si les lieux le permettent, cueillir dans les environs. Il suffit de lancer un D20 et de récolter selon le résultat.
 
 **4 Types de Ressources :** 
 

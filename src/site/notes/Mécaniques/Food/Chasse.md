@@ -2,15 +2,20 @@
 {"dg-publish":true,"permalink":"/Mécaniques/Food/Chasse/"}
 ---
 
+> La viande est l'une des ressources les plus nourrissante (si bien préparée). Pour la récolter, un joueur peut partire chasser.
+
+> La chasse est l'activité le la plus complexe et requiert quelques paramètre.
+
+> Un arc et des flèches est nécéssaire et la connaissance des lieux et des animaux est recommandé afin de sauver du temps.
+
+> En effet, deux types de chasses existent, la chasse standard et la chasse sélective.
+
 
 **Types de chasse :**
 
-1. Regarder dans quel biome le joueur se trouve.
-2. Choisir le type de chasse
-
 - **Standard** (2h): 
 
-> Le joueur se rend sur les lieux.
+> Le joueur vérifie le type de [[Locations/Biomes\|Biomes]].
 > Le joueur piste un animal (Jet de D20 + Nature)
 > Le joueur initie une attaque (Jet de D20 + Survie) - DC13
 > Résultat - Récolte ou Échec. 
@@ -19,17 +24,9 @@
 
 *Doit connaitre l'animal dans le Bestiaire - [[Bestiaire/Faune\|Faune]]*
 
-> Le joueur se rend sur les lieux
+> Vérifier le type de [[Locations/Biomes\|Biomes]].
 > Le joueur initie une attaque (Jet de Survie) - DC10
 > Résultat - Récolte ou Échec.
-
-> Voir la charte des animaux des différents Biomes :
-
-- [[Biomes/Forêts Denses\|Forêts Denses]]
-- [[Biomes/Plaines\|Plaines]]
-- [[Biomes/Plaines Arrides\|Plaines Arrides]]
-- [[Biomes/Montagnes\|Montagnes]]
-- [[Biomes/Désert\|Désert]]
 
 3. Récolte ou Échec
 

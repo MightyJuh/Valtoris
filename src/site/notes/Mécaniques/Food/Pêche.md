@@ -3,8 +3,8 @@
 ---
 
 
-Pour pêcher, le joueur regarde dans quel type d'environnement il se trouve.
-Selon le point d'eau, le joueur lance un D20 - Athletics
+> Pour pêcher, le joueur regarde dans quel type d'environnement il se trouve.
+> Selon le point d'eau, le joueur lance un D20 - Athletics
 
 **Le Système de récolte fonctionne de cette façon  :**
 
@@ -21,7 +21,6 @@ Selon le point d'eau, le joueur lance un D20 - Athletics
 Le joueur peut ajuster sa prise selon la charte suivante:
 - 1 Gros Poisson = 3 Petits Poissons
 - 1 Moyen Poisson = 2 Petits Poissons
-
 
 #### Mare 🐸
 | 🎲 Résultat au D20 | 🐟Poisson Pêché Récoltées | 🏹Ressources Récoltées |
