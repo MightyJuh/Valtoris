@@ -8,7 +8,7 @@ Name : Acera
 
 Race : Metallic [[Races/Dragonborn\|Dragonborn]] 
 Classe : Warlock 
-Ville d'origine : Aurélis 
+Ville d'origine : Aurélis > Avarion
 
 Patron : L'Insondable
 

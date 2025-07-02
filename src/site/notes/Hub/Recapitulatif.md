@@ -3,5 +3,5 @@
 ---
 
 
-### Session 1 - {date}
+### Session 1 - {8 Juillet 2025}
 >

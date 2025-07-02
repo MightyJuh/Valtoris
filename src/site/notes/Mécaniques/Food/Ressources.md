@@ -46,24 +46,24 @@
 
 *La viande reste fraiche pour un total de 1 semaine, sauf si elle est préservée. Pour se faire, il suffit de réussir un DC10 Survival check.*
 
-| 🍖Type de Viande      | Faim | HP  | 💰Prix |
-| --------------------- | :--: | :-: | :----: |
-| 🟥 Gibier Noble       |  4   |  4  |  1 PA  |
-| 🟥 Gibier Standard    |  3   |  2  |  8 PC  |
-| 🟥 Viande Maigre      |  2   |  -  |  6 PC  |
-| 🟥 Viande Filandreuse |  1   |  1  |  4 PC  |
-| 🟪 Viande de Monstre  |  1   | -2  |   -    |
+| 🍖Type de Viande      | Portions | Faim | HP  | 💰Prix |
+| --------------------- | :------: | :--: | :-: | :----: |
+| 🟥 Gibier Noble       |    3     |  4   |  4  |  1 PA  |
+| 🟥 Gibier Standard    |    2     |  3   |  2  |  8 PC  |
+| 🟥 Viande Maigre      |    1     |  2   |  -  |  6 PC  |
+| 🟥 Viande Filandreuse |    1     |  1   |  1  |  4 PC  |
+| 🟪 Viande de Monstre  |    3     |  1   | -2  |   -    |
 
 ## Pêche
 #### Chair de Poisson
 
 *La chair de poisson doit être cuite avant d'être consommée afin de récupérer le maximum de ses bienfaits. Manger de la chair de poisson crue donne seulement 1 de faim.*
 
-| 🐟 Type de Poisson | Faim | HP  | 💰Prix |
-| ------------------ | :--: | :-: | :----: |
-| 🟥 Chair Riche     |  3   |  4  |  1 PA  |
-| 🟥 Chair Standard  |  2   |  2  |  8 PC  |
-| 🟥 Chair Commune   |  1   |  -  |  5 PC  |
+| 🐟 Type de Poisson | Portions | Faim | HP  | 💰Prix |
+| ------------------ | :------: | :--: | :-: | :----: |
+| 🟥 Chair Riche     |    3     |  3   |  4  |  1 PA  |
+| 🟥 Chair Standard  |    2     |  2   |  2  |  8 PC  |
+| 🟥 Chair Commune   |    1     |  1   |  -  |  5 PC  |
 
 ## Cueillette
 
@@ -81,7 +81,7 @@
 
 *Les Plantes et Herbes en elles-mêmes ne confèrent pas de bonus, ces bonus sont appliqués lorsque ces ressources sont utilisées en cuisine.*
 
-*Vous obtennez 3 Plantes/Herbes à chaque récolte*
+*Vous obtennez 3  unités d'Herbes à chaque récolte*
 
 | Type de Plante/Herbe | Faim (Recette) | HP  | 💰Prix | 🎲Dé de récolte |
 | -------------------- | :------------: | :-: | :----: | :-------------: |
@@ -95,26 +95,30 @@
 
 #### Fillers
 
-*Certaines ressources ne confère aucun bonus mais agissent comme Fillers pour les recettes, à un certains prix.*
+*Certaines ressources ne confère presque aucun bonus mais agissent comme Fillers pour les recettes, à un certains prix.*
 
 | Type Plantes (Misc) | Faim (Recette) | HP  | 💰Prix | 🎲Dé de récolte |
 | ------------------- | :------------: | :-: | :----: | :-------------: |
-| 🪵 Branche          |       -        | -1  |   -    |      1 - 6      |
-| 🪵 Racine           |       -        | -1  |   -    |     7 - 12      |
-| 💦 Eau              |       -        |  -  |   -    |     13 - 17     |
-| 🥚Oeuf              |       1        |  -  |  2 PA  |     18 - 24     |
+| 🪵 Branche          |       -        | -1  |   -    |      1 - 7      |
+| 🪵 Racine           |       -        | -1  |   -    |     8 - 15      |
+| 💦 Eau              |       -        |  -  |   -    |        -        |
+| 🥚Oeuf              |       1        |  -  |  2 PA  |     16 - 24     |
+*Les racines peuvent êtres  utilisées pour faire une poudre aux caractéristiques semblables à de la farine*
 
+*Les Branches sont souvent utilisées pour faire des brochettes*
+
+*À noter que l'eau ne compte pas dans les ingrédients permis. Une recette Standars PEUT avoir 4 ingrédient autre que de l'eau.*
 #### Fleurs 
 
 *Les Fleurs en elles-mêmes ne confèrent pas de bonus, ces bonus sont appliqués lorsque ces ressources sont utilisées en cuisine.*
 
-*Vous obtennez 3 Fleurs à chaque récolte*
+*Vous obtennez 3 unités de Fleurs à chaque récolte*
 
 | Type de Fleur | Faim (Recette) | HP  | 💰Prix |
 | ------------- | :------------: | :-: | :----: |
 | 🌸 Camomille  |       -        |  1  |  5 PC  |
-| 🌸 Pavots     |       -        |  2  |  2 PA  |
-| 🌸 Orchidée   |       -        |  2  |  2 PA  |
-| 🌸Épidendrons |       -        |  2  |  2 PA  |
-| 🌸 Cypripède  |       -        |  3  |  1 PO  |
+| 🌸 Capucines  |       -        |  2  |  2 PA  |
+| 🌸 Hostas     |       -        |  2  |  2 PA  |
+| 🌸 Oeillets   |       -        |  2  |  2 PA  |
+| 🌸 Violettes  |       -        |  3  |  1 PO  |
 

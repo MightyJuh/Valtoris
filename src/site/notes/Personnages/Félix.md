@@ -9,5 +9,5 @@ Name : Lyle
 Race : [[Races/Tabaxi\|Tabaxi]]
 Classe : Rogue
 Région d'origine : 
-Ville d'origine : Naelens
+Ville d'origine : Naelens > Delpht
 

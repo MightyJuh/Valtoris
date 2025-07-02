@@ -9,4 +9,4 @@ Name : Birth
 Race : [[Races/Galeb Duhr\|Galeb Duhr]] (Dwarf)
 Classe : Barbare
 Sous-classe : Wild Magic
-Ville d'origine : Azhofmery
+Ville d'origine : Azhofmery > Arh' Gol

@@ -9,7 +9,7 @@ Name : MUNT GOL
 
 Race: Cedar [[Races/Treefolk\|Treefolk]]
 Classe: Cleric 
-Ville d'origine : Acomore
+Ville d'origine : Acomore > Elarion
 
 Religion : Lysorin
 
