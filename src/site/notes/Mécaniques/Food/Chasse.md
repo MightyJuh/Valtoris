@@ -23,14 +23,6 @@
 > Le joueur initie une attaque (Jet de Survie) - DC10
 > Résultat - Récolte ou Échec.
 
-2. Échec ou Récolte
-
-En cas d'échec, le joueur peut soit abandonner ou recommencer. Dans le cas ou il décide de recommencer, le type de chasse devient automatiquement *Standard* et celui ci doit de nouver pister un animal.
-
-Dans certains cas, le joueur sera confronté à se battre contre un prédateur. Si le joueur ne réussi pas son jet de D20, il devra se battre contre l'animal.
-
-Si le joueur Tue avec succès l'animal, il récupère les ressources associées avec son animal avec le jet d'un D20. 
-
 > Voir la charte des animaux des différents Biomes :
 
 - [[Biomes/Forêts Denses\|Forêts Denses]]
@@ -38,6 +30,10 @@ Si le joueur Tue avec succès l'animal, il récupère les ressources associées 
 - [[Biomes/Plaines Arrides\|Plaines Arrides]]
 - [[Biomes/Montagnes\|Montagnes]]
 - [[Biomes/Désert\|Désert]]
+
+3. Récolte ou Échec
+
+> Si le joueur tue avec succès l'animal, il récupère les ressources associées avec son animal avec le jet d'un D20. 
 
 **5 Types de Ressources :**
 
@@ -56,5 +52,11 @@ Si le joueur Tue avec succès l'animal, il récupère les ressources associées 
 | 20-22              | 🟥🟥 + 🟩🟩 + 🟨 + 🟦           |
 | 23-24              | 🟥🟥🟥 + 🟩🟩 + 🟨 + 🟦🟦       |
 | 25+                | 🟥🟥🟥🟥 + 🟩🟩🟩 + 🟨🟨 + 🟦🟦 |
+
+*Voir [[Mécaniques/Food/Ressources#Chasse\|Ressources#Chasse]]*
+
+> En cas d'échec, le joueur peut soit abandonner ou recommencer. Dans le cas ou il décide de recommencer, le type de chasse devient automatiquement *Standard* et celui ci doit de nouver pister un animal.
+
+> Dans certains cas, le joueur sera confronté à se battre contre un prédateur. Si le joueur ne réussi pas son jet de D20 pour l'abattre de loins, il devra se battre contre l'animal.
 
 *Voir [[Mécaniques/Food/Ressources#Chasse\|Ressources#Chasse]]*
