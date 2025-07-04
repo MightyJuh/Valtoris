@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Bestiaire/Cook Book/"}
+{"dg-publish":true,"permalink":"/Hub/Bestiaire/Cook Book/","noteIcon":""}
 ---
 
 

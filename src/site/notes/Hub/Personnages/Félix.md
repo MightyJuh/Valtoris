@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Personnages/Félix/"}
+{"dg-publish":true,"permalink":"/Hub/Personnages/Félix/","noteIcon":""}
 ---
 
 ![Felix.jpg](/img/user/EXTRA/00_IMAGES/Felix.jpg)

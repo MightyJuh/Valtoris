@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Bestiaire/Faune/"}
+{"dg-publish":true,"permalink":"/Hub/Bestiaire/Faune/","noteIcon":""}
 ---
 
 

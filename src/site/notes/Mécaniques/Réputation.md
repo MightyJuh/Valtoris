@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mécaniques/Réputation/"}
+{"dg-publish":true,"permalink":"/Mécaniques/Réputation/","noteIcon":""}
 ---
 
 

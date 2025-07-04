@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Personnages/Jonathan/"}
+{"dg-publish":true,"permalink":"/Hub/Personnages/Jonathan/","noteIcon":""}
 ---
 
 ![Jonathan.jpg](/img/user/EXTRA/00_IMAGES/Jonathan.jpg)

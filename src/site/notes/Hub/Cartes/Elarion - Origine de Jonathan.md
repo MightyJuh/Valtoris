@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Cartes/Elarion - Origine de Jonathan/"}
+{"dg-publish":true,"permalink":"/Hub/Cartes/Elarion - Origine de Jonathan/","noteIcon":""}
 ---
 
 

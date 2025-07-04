@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mécaniques/Food/Faim/"}
+{"dg-publish":true,"permalink":"/Mécaniques/Food/Faim/","noteIcon":""}
 ---
 
 

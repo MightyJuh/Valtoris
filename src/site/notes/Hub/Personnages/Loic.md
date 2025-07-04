@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Personnages/Loic/"}
+{"dg-publish":true,"permalink":"/Hub/Personnages/Loic/","noteIcon":""}
 ---
 
 ![Loic.jpg](/img/user/EXTRA/00_IMAGES/Loic.jpg)

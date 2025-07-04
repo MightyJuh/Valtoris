@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mécaniques/Food/Chasse/"}
+{"dg-publish":true,"permalink":"/Mécaniques/Food/Chasse/","noteIcon":""}
 ---
 
 > La viande est l'une des ressources les plus nourrissante (si bien préparée). Pour la récolter, un joueur peut partire chasser.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Personnages/Sam/"}
+{"dg-publish":true,"permalink":"/Hub/Personnages/Sam/","noteIcon":""}
 ---
 
 ![Sam.png](/img/user/EXTRA/00_IMAGES/Sam.png)

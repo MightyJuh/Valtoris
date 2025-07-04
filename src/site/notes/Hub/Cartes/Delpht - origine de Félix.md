@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Cartes/Delpht - origine de Félix/"}
+{"dg-publish":true,"permalink":"/Hub/Cartes/Delpht - origine de Félix/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mécaniques/Food/Cooking/"}
+{"dg-publish":true,"permalink":"/Mécaniques/Food/Cooking/","noteIcon":""}
 ---
 
 
