@@ -7,20 +7,24 @@
 
 | 🐾 Animal rencontré | 🟥 Viande | 🟨 Surplus | 🟩 Fourrures | 🟦 Ressource de Luxe |
 | ------------------- | :-------: | :--------: | :----------: | :------------------: |
+|                     |           |            |              |                      |
 
 ### Plaines
 
 | 🐾 Animal rencontré | 🟥 Viande | 🟨 Surplus | 🟩 Fourrures | 🟦 Ressource de Luxe |
 | ------------------- | :-------: | :--------: | :----------: | :------------------: |
+|                     |           |            |              |                      |
 
 ### Plaines Arrides
 
 | 🐾 Animal rencontré | 🟥 Viande | 🟨 Surplus | 🟩 Fourrures | 🟦 Ressource de Luxe |
 | ------------------- | :-------: | :--------: | :----------: | :------------------: |
+|                     |           |            |              |                      |
 ### Montagnes
 
 | 🐾 Animal rencontré | 🟥 Viande | 🟨 Surplus | 🟩 Fourrures | 🟦 Ressource de Luxe |
 | ------------------- | :-------: | :--------: | :----------: | :------------------: |
+|                     |           |            |              |                      |
 
 ### Désert
 
