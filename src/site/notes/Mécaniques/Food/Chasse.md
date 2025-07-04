@@ -22,7 +22,7 @@
 
 - **Sélective** (1h) : 
 
-*Doit connaitre l'animal dans le Bestiaire - [[Bestiaire/Faune\|Faune]]*
+*Doit connaitre l'animal dans le Bestiaire - [[Hub/Bestiaire/Faune\|Faune]]*
 
 > Vérifier le type de [[Locations/Biomes\|Biomes]].
 > Le joueur initie une attaque (Jet de Survie) - DC10

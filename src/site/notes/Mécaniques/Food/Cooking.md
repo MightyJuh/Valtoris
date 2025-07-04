@@ -31,7 +31,7 @@
 | Dégueux  |   < DC    |  -1  | -1  |
 |  Infâme  |     1     |  -2  | -2  |
 
-> [[Personnages/Ulric\|Ulric]] en tant que chef peut, si il produit un plat à un niveau Standard ou plus, rebrasser les dé pour ajouter un Bonus selon la charte suivante:
+> [[Hub/Personnages/Ulric\|Ulric]] en tant que chef peut, si il produit un plat à un niveau Standard ou plus, rebrasser les dé pour ajouter un Bonus selon la charte suivante:
 
 | 🎲 Jet de dé | Bonus           |
 | ------------ | --------------- |
