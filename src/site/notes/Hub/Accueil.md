@@ -23,5 +23,4 @@ Il sera mis à jour à la fin de chaque session, avec les informations apprises 
   - [[Hub/Personnages/Loic\|Loic]]
   - [[Hub/Personnages/Sam\|Sam]]
   - [[Hub/Personnages/Ulric\|Ulric]]
-  - 
   
