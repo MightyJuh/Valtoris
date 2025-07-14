@@ -9,4 +9,4 @@
 
 - Peut être retravailler l'intro et le développement.
 
-Nouvelles informations dans l'[[Hub/Accueil\|Accueil]] et dans les fiches personnages.
+Nouvelles informations dans l'[[Hub/Accueil\|Accueil]], dans l'[[Hub/État du Royaume\|État du Royaume]] et dans les fiches personnages.
