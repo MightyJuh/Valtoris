@@ -11,7 +11,7 @@ Race : [[Races/Tabaxi\|Tabaxi]]
 Classe : Rogue
 
 Région d'origine : 
-Ville d'origine : Naelens > Delpht
+Ville d'origine : Naelens > [[Locations/Régions/Delpht/Delpht\|Delpht]]
 
 Backstory :
 
@@ -22,3 +22,19 @@ Backstory :
 > Durant ses années d’adolescence, il s'affina, perfectionna son masque d’innocence et ses mille voix mensongères. À force de jeux d’apparences et de ruses bien huilées, il devint une ombre dansante dans les quartiers chauds de la cité. Charmeur aux yeux d’ambre et à la parole mielleuse, menteur d’exception et manipulateur instinctif, Lyle n'était plus un vagabond : il était devenu une énigme glissant dans les ombres, une menace silencieuse que même les guildes criminelles commençaient à chuchoter à voix basse.
 
 > Mais derrière les pirouettes et les sourires rusés, brûle une ambition féroce. Car Lyle Griffes-d’Ombre ne se contentera pas d’être un voleur de ruelles. Non. Il rêve d’un coup d’éclat, d’un chef-d'œuvre qui a du panache, qui le propulserait au sommet de l’underground de Delph et même de Valtoris au grand complet. Il veut son nom murmuré avec crainte et respect dans les couloirs les plus profonds des cercles criminels, un projet d’envergure, une opération si magistrale qu’elle ferait pâlir les légendes. Et dans l’attente de ce coup du destin, il arpente les chemins, souriant à ceux qu’il trahira, avançant sans attache dans un monde qu’il façonne à sa manière, toujours un pas devant ceux qui croient pouvoir le suivre.
+
+---
+
+> Mais un jour, tout changea.
+
+> C’était une nuit moite, où les gouttières de Naelens déversaient des ruisseaux bruns entre les pavés usés. Lyle venait de subtiliser une petite bourse dans la poche d’un scribe distrait lorsqu’il sentit, à l’instant même où ses doigts se refermaient sur le cuir, **un pli sec sous la doublure de sa cape**. Il se figea. Il n’avait rien senti venir. Aucun frôlement, aucune main étrangère.
+
+> Le message était court, écrit sur un papier fin, replié avec soin. Une encre grise, presque effacée par le temps :
+
+> _« Ce que tu cherches ne se trouve pas dans les coffres,  
+> mais dans les lieux où les mots ont été tus.  
+> Falts. Solstice. »_
+
+> Pas de nom. Pas de menace. Juste une certitude. Cette missive ne venait pas d’un amateur.
+
+> Lyle la relut trois fois, plissa les yeux, et sentit poindre un frisson familier. Il rangea le papier contre son cœur, remonta sa capuche, et disparut dans les ombres sans un bruit.

@@ -3,6 +3,6 @@
 ---
 
 
-### Session 1 - {8 Juillet 2025}
+### Session 1 - {13 Juillet 2025}
 
 > 

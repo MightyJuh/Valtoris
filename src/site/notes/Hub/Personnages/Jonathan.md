@@ -9,7 +9,7 @@ Name : Mont Gol
 
 Race: Cedar [[Races/Treefolk\|Treefolk]]
 Classe: Cleric 
-Ville d'origine : Acomore > Elarion
+Ville d'origine : Acomore > [[Locations/Régions/Elarion/Elarion\|Elarion]]
 
 Religion : Lysorin
 
@@ -21,14 +21,15 @@ Backstory :
 
 > Et il s’y tint. Des pins pour la mémoire, des noisetiers pour les enfants, des érables pour la couleur, et des aulnes pour l’eau. Il dessina des corridors de mousse, dégagea des points d’eau, aménagea des clairières. Peu à peu, la vie revint. Les animaux se réinstallèrent. Les chants d’oiseaux réapparurent. Les villageois, d’abord méfiants, commencèrent à lui parler, à l’observer, puis à l’aider. Les enfants venaient planter à ses côtés, les anciens lui apportaient des outils ou des graines, et les jeunes couples venaient lui demander conseil. Il devint, sans l’avoir cherché, une figure familière. Ils l’appelèrent le Grand Jardinier. Avec le temps, il se fit une place dans la communauté, bien qu’il ne vive jamais vraiment parmi eux. À quatre-vingts ans, fidèle à sa promesse, Mont Gol planta un dernier arbre : un if blanc, qu’il plaça au centre d’une clairière qu’il avait restaurée. Cette nuit-là, il ne rêva pas, mais il sentit quelque chose se poser en lui. Une paix particulière, comme si le cycle qu’il avait entamé trouvait enfin son terme. Il n’attendait pas de récompense, ni de reconnaissance. Mais ce sentiment profond d’avoir fait ce qu’il devait faire. Il décida alors de redonner vie à un vieux sanctuaire écroulé, en bordure de forêt. Il rebâtit les murs à l’aide de pierres couvertes de mousse, façonna des bancs avec des troncs tombés naturellement, et entrelaça les lianes pour en faire une voûte vivante. Il n’en fit pas un lieu de culte au sens strict, mais un endroit de passage, de calme, de mémoire. Les gens y venaient pour se recueillir, planter un arbre en mémoire d’un proche, bénir une récolte, ou simplement écouter le silence. Mont Gol n’enseignait pas, il ne prêchait pas. Mais ceux qui le côtoyaient repartaient changés.
 
-> Au fil des décennies, sa présence se tissa dans le quotidien d’Acomore. Les artisans le consultaient avant d’abattre un arbre. Le bourgmestre venait lui exposer les projets du village pour recueillir son avis. On disait qu’il pouvait sentir l’état d’une terre en la touchant, ou savoir si un arbre allait mourir avant même qu’il ne jaunisse. Sans jamais s’imposer, il devint un pilier — un repère de sagesse lente et solide. Et puis, un matin, il sentit que quelque chose ne tournait plus rond. Pas un danger immédiat, pas une alerte précise, mais une dissonance dans le rythme des saisons. Les pluies arrivaient trop tôt, les Essoos étaient étrangement silencieux, certains arbres semblaient pousser de travers. Ce n’était pas la forêt qui l’inquiétait, mais le monde au-delà. Il avait passé des années à observer, à veiller… mais cette fois, rester immobile n’était plus une option.
+> Au fil des décennies, sa présence se tissa dans le quotidien d’Acomore. Les artisans le consultaient avant d’abattre un arbre. Le bourgmestre venait lui exposer les projets du village pour recueillir son avis. On disait qu’il pouvait sentir l’état d’une terre en la touchant, ou savoir si un arbre allait mourir avant même qu’il ne jaunisse. Sans jamais s’imposer, il devint un pilier — un repère de sagesse lente et solide. 
 
-> Il prit la décision de partir.
+---
 
-> Il ne savait pas exactement où il allait, ni ce qu’il espérait y trouver. Mais un nom lui était revenu en tête, glané peut-être dans les récits d’un pèlerin ou les murmures d’un enfant : **Celey**, un village côtier, loin au sud-est. Il n’y avait jamais mis les pieds, mais il avait le pressentiment que quelque chose, là-bas, avait besoin de lui.
+> Un soir, alors que la lumière tombait doucement sur les cimes et que les chants des lucioles envahissaient la clairière, Mont Gol sentit une vibration sourde sous ses pieds. Pas un tremblement de terre, non. **Un battement.** Comme un cœur lointain, battant au rythme d’une sève ancienne, enfouie dans la terre.
 
-> Avant de quitter Acomore, il grava une phrase simple dans l’écorce d’un vieux banc du sanctuaire :  
+> Il posa sa main sur le tronc de l’if blanc. Et là, une voix résonna. Pas dans ses oreilles, mais dans les nœuds de son bois, dans les fibres profondes de son être. **Une voix vieille comme la pierre, douce comme la mousse.**
 
-> « Quand l’équilibre chancelle, même les arbres doivent marcher. »
+> _« L’éveil a commencé. Les mots oubliés t’attendent. La mémoire sommeille sous les cendres des livres.  
+> Falts. Solstice. Grande bibliothèque. »_
 
-> Et il s’en alla, d’un pas lent, mais déterminé. Le vent soufflait doucement dans ses branches. Mont Gol marchait à nouveau.
+> Mont Gol ne demanda conseil à personne. Il comprit que le monde qu’il avait tenté de guérir l’appelait à présent ailleurs. Il quitta Acomore à l’aube, une dernière fois, sans bruit, sans discours, sans adieux.
