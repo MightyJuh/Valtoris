@@ -15,7 +15,7 @@
 
 - **Standard** (2h): 
 
-> Le joueur vérifie le type de [[Locations/Biomes\|Biomes]].
+> Le joueur vérifie le type de [[Biomes/Biomes\|Biomes]].
 > Le joueur piste un animal (Jet de D20 + Nature)
 > Le joueur initie une attaque (Jet de D20 + Survie) - DC13
 > Résultat - Récolte ou Échec. 
@@ -24,7 +24,7 @@
 
 *Doit connaitre l'animal dans le Bestiaire - [[Hub/Bestiaire/Faune\|Faune]]*
 
-> Vérifier le type de [[Locations/Biomes\|Biomes]].
+> Vérifier le type de [[Biomes/Biomes\|Biomes]].
 > Le joueur initie une attaque (Jet de Survie) - DC10
 > Résultat - Récolte ou Échec.
 
