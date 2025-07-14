@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Accueil/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Hub/Accueil/","tags":["gardenEntry"]}
 ---
 
 
@@ -14,7 +14,9 @@ Il sera mis à jour à la fin de chaque session, avec les informations apprises 
 
 - Dans le dossier **Cartes** se trouves toutes les cartes que vous avez en votre possession.
 
-- Dans le dossier Bestiaire se trouve tout ce que vous allez découvrir, soit de la [[Hub/Bestiaire/Faune\|Faune]], de la [[Hub/Bestiaire/Flore\|Flore]], ainsi que des recettes dans le [[Hub/Bestiaire/Cook Book\|Cook Book]].
+- Dans le dossier **Bestiaire** se trouvera tout ce que vous allez découvrir, soit de la [[Hub/Bestiaire/Faune\|Faune]], de la [[Hub/Bestiaire/Flore\|Flore]], ainsi que des recettes dans le [[Hub/Bestiaire/Cook Book\|Cook Book]].
+
+- La **Bibliothèque** sert a entreposer tous les [[Livres d'histoires\|Livres d'histoires]], les [[Hub/Bibliothèque/Légendes\|Légendes]] ou les [[Hub/Bibliothèque/Parchemins\|Parchemins]] que vous allez découvrir au fil de l'histoire.
 
 - Vos pages de **personnages** sont disponibles ici:
   

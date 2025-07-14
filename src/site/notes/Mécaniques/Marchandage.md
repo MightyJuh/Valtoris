@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mécaniques/Marchandage/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Mécaniques/Marchandage/"}
 ---
 
 

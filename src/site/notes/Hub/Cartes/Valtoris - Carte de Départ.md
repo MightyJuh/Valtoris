@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Cartes/Valtoris - Carte de Départ/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Hub/Cartes/Valtoris - Carte de Départ/"}
 ---
 
 

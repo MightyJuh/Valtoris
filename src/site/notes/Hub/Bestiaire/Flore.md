@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Bestiaire/Flore/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Hub/Bestiaire/Flore/"}
 ---
 
 

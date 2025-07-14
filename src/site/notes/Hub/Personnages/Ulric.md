@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hub/Personnages/Ulric/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Hub/Personnages/Ulric/"}
 ---
 
 ![Ulric.jpg](/img/user/EXTRA/00_IMAGES/Ulric.jpg)

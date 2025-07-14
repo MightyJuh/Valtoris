@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mécaniques/Food/Pêche/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Mécaniques/Food/Pêche/"}
 ---
 
 
