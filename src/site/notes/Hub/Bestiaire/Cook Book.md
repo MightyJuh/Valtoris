@@ -8,7 +8,7 @@
 
 | 🥄Recettes | 🌿Ingrédients | 🕰️Préparation | 🍽️ Portions | 🎲DC de cuisson |  Test  |
 | ---------- | :-----------: | :------------: | :----------: | :-------------: | :----: |
-| Standard   |       4       |       1h       |      3       |       13        | 
+| Standard   |       4       |       1h       |      3       |       13        | Survie |
 ## Brochettes de Gibier à l'origan
 
 Des brochettes de gibier noble grillées, parfumées à l’origan et rehaussées d’une branche de thym sec.
