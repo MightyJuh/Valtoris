@@ -17,7 +17,7 @@ Il sera mis à jour à la fin de chaque session, avec les informations apprises 
 
 - Dans le dossier **Bestiaire** se trouvera tout ce que vous allez découvrir, soit de la [[Hub/Bestiaire/Faune\|Faune]], de la [[Hub/Bestiaire/Flore\|Flore]], ainsi que des recettes dans le [[Hub/Bestiaire/Cook Book\|Cook Book]].
 
-- La **Bibliothèque** sert a entreposer tous les Livres d'[[Hub/Bibliothèque/Histoires\|Histoires]], les [[Hub/Bibliothèque/Légendes\|Légendes]] ou les [[Hub/Bibliothèque/Parchemins\|Parchemins]] que vous allez découvrir au fil de l'histoire.
+- La **Bibliothèque** sert a entreposer tous les Livres d'[[Histoires\|Histoires]], les [[Légendes\|Légendes]] ou les [[Parchemins\|Parchemins]] que vous allez découvrir au fil de l'histoire.
 
 - Vos pages de **personnages** sont disponibles ici:
   

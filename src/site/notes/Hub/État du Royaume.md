@@ -10,6 +10,7 @@
 
 - Les enfants n’apprennent plus rien sur l’Âge d’Or, sauf quelques récits manipulés : “des temps dangereux où la magie menaçait l’ordre”.
 
+- Beaucoup des anciens écrits sont enfouis dans les [[Locations/Landmarks/Falts/Grandes Archives\|Grandes Archives]] de Falts, interdite d'accès au publique.
 #### Mémoire Populaire
 
 - Les personnes âgées, surtout dans les villages ou régions éloignées du pouvoir, se souviennent encore de ce qu’on leur racontait.
@@ -18,12 +19,18 @@
 ## <span style="color:rgb(146, 208, 80)">Les Pierres élémentales</span>
 
  Les 5 Pierres élémentales sont dispersées dans plusieurs régions.
+ 
+ 5 Indices venant du livre [[Hub/Bibliothèque/Histoires/Les Pierres Élémentales\|Les Pierres Élémentales]]
 
-- Natura :
-- Aqua :
-- Terra : 
-- Ignis
-- Indus :
+- **Natura** fut scellée dans l’obscurité d’une forêt si vieille que ses troncs semblent chuchoter des secrets, 
+
+- **Aqua** fut engloutie au cœur d’un sanctuaire immergé, ses salles subaquatiques baignées par un flot cristallin : les colonnes de marbre résonnaient du chant des cascades intérieures et les vasques débordaient d’une source vive
+
+- **Terra** fut cachée là où les monts s’élèvent en dentelles de granit et coupent le ciel d’un liseré métallique, 
+
+- **Ignis** fut ensevelie dans des montagnes de roche noire qui gisent au dessus d'un lac de lave.
+
+- **Indus** fut confié à un être des mer, sous l’écume tourmentée d’une mer toujours en furie, là où les flots brisent leurs vagues contre des falaises acérées. 
 
 ## <span style="color:rgb(146, 208, 80)"> Le Pouvoir Royal</span>
 

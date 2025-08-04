@@ -7,7 +7,7 @@
 Name : Acera 
 Âge : 23 ans (977)
 
-Race : Metallic [[Races/Dragonborn\|Dragonborn]] 
+Race : Metallic [[Races/Dragonborns\|Dragonborns]] 
 Classe : Warlock 
 Ville d'origine : Plaines d'Avarion -> Aurélis > [[Locations/Régions/Avarion/Avarion\|Avarion]]
 
