@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Hub/Bibliothèque/Histoires/Les Grands conflits/"}
 ---
 
-
+Auteur : [[NPC/Serenelis Verdine\|Serenelis Verdine]]
+Année de Publication : 614
 
 ## Les Premiers Conflits
 

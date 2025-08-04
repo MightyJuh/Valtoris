@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/Hub/Bibliothèque/Histoires/Les Pierres Élémentales/"}
 ---
 
-
-
+Auteur : [[NPC/Serenelis Verdine\|Serenelis Verdine]]
+Année de Publication : 627
 ### L'Émergence
 
 > Dans les âges reculés, lorsque les Gardiens foulèrent pour la première fois Ithirath, ils façonnèrent la magie même du monde en canalisant ses forces primordiales à travers cinq cristaux : Natura, l’essence de la faune et la flore ; Aqua, la force des eaux ; Terra, la vigueur des sols ; Ignis, l’ardeur du feu ; et Indus, l’énergie brute qui sous-tend toute existence. Chacun de ces joyaux contenait l’empreinte même des éléments, un fragment de l’âme des Gardiens, destiné à maintenir l’équilibre et à guider les futurs habitants d’Ithirath.
